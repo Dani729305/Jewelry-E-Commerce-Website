@@ -1,4 +1,5 @@
 ## 💎 Jewelry E-Commerce Website
+https://dani729305.github.io/Jewelry-E-Commerce-Website/
 
 This project is a responsive and modern jewelry e-commerce website built using HTML, CSS, JavaScript, and Bootstrap. It displays a wide range of jewelry products, including featured collections, new arrivals, discounted items, and special sales deals in an attractive and easy-to-use interface.
 
